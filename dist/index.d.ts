@@ -1,3 +1,3 @@
-export * from "./array.js";
-export * from "./string.js";
-export * from "./io.js";
+export * from "./array/array.js";
+export * from "./string/string.js";
+export * from "./io/io.js";
