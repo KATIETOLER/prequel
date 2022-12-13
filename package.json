@@ -1,6 +1,6 @@
 {
   "name": "prequel",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A library designed to support solving competitive programming challenges through Typescript extensions, data structures, and algorithms",
   "type": "module",
   "exports": {
