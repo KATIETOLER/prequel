@@ -1,6 +1,6 @@
 declare global {
   interface Array<T extends number> {
-    sum(): Array<T>
+    sum(): T
     sortNum(): Array<T>
   }
 }
